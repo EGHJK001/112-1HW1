@@ -20,7 +20,7 @@
 4.git pull<br />
 5.git branch testdev , git checkout testdev<br />
 6.git add B.txt , git commit <br />
-7.git push<br />
+7.git push , git push --set-upstream origin testdev<br />
 8.git pull<br />
 9.git checkout main<br />
 10.git add B.txt , git commit <br />
